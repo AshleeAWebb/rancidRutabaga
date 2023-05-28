@@ -27,7 +27,7 @@ The Rancid Rutabagas project utilizes the following technologies:
 - GitHub (version control and collaboration)
 
 ## Depolyed Link
-![Rancid Rutabagas](https://rancid-rutabaga.vercel.app/)
+[Rancid Rutabagas](https://rancid-rutabaga.vercel.app/)
 
 ## Contributors
 This project is a collaborative effort by the following contributors:
